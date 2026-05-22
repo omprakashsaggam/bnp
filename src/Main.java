@@ -12,7 +12,6 @@ public class Main {
 
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter account details");
         System.out.println("Enter account holder name");
         String name = scanner.nextLine();
         System.out.println("Enter account holder email");
